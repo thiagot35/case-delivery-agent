@@ -1,0 +1,199 @@
+{
+  "datas_fixas_nacionais": [
+    {
+      "nome": "Confraternização Universal (Ano Novo)",
+      "data": "01/01",
+      "tipo": "Feriado Nacional"
+    },
+    {
+      "nome": "Dia Internacional da Mulher",
+      "data": "08/03",
+      "tipo": "Data Comemorativa"
+    },
+    {
+      "nome": "Dia do Consumidor",
+      "data": "15/03",
+      "tipo": "Data Comemorativa"
+    },
+    {
+      "nome": "Tiradentes",
+      "data": "21/04",
+      "tipo": "Feriado Nacional"
+    },
+    {
+      "nome": "Dia do Trabalhador",
+      "data": "01/05",
+      "tipo": "Feriado Nacional"
+    },
+    {
+      "nome": "Dia dos Namorados",
+      "data": "12/06",
+      "tipo": "Data Comemorativa"
+    },
+    {
+      "nome": "Dia de São João (Festas Juninas)",
+      "data": "24/06",
+      "tipo": "Data Comemorativa"
+    },
+    {
+      "nome": "Dia do Amigo",
+      "data": "20/07",
+      "tipo": "Data Comemorativa"
+    },
+    {
+      "nome": "Dia dos Avós",
+      "data": "26/07",
+      "tipo": "Data Comemorativa"
+    },
+    {
+      "nome": "Independência do Brasil",
+      "data": "07/09",
+      "tipo": "Feriado Nacional"
+    },
+    {
+      "nome": "Dia do Cliente",
+      "data": "15/09",
+      "tipo": "Data Comemorativa"
+    },
+    {
+      "nome": "Dia das Crianças / Nossa Senhora Aparecida",
+      "data": "12/10",
+      "tipo": "Feriado Nacional / Comemorativo"
+    },
+    {
+      "nome": "Dia do Professor",
+      "data": "15/10",
+      "tipo": "Data Comemorativa"
+    },
+    {
+      "nome": "Proclamação da República",
+      "data": "15/11",
+      "tipo": "Feriado Nacional"
+    },
+    {
+      "nome": "Véspera de Natal",
+      "data": "24/12",
+      "tipo": "Data Comemorativa"
+    },
+    {
+      "nome": "Natal",
+      "data": "25/12",
+      "tipo": "Feriado Nacional"
+    },
+    {
+      "nome": "Véspera de Ano Novo (Réveillon)",
+      "data": "31/12",
+      "tipo": "Data Comemorativa"
+    }
+  ],
+  "datas_moveis": [
+    {
+      "nome": "Carnaval (Terça-feira)",
+      "regra": "47 dias antes da Páscoa",
+      "datas_por_ano": {
+        "2026": "17/02/2026",
+        "2027": "09/02/2027",
+        "2028": "29/02/2028",
+        "2029": "13/02/2029",
+        "2030": "05/03/2030",
+        "2031": "25/02/2031"
+      }
+    },
+    {
+      "nome": "Páscoa",
+      "regra": "Primeiro domingo após a primeira lua cheia do equinócio de outono (Sul)",
+      "datas_por_ano": {
+        "2026": "05/04/2026",
+        "2027": "28/03/2027",
+        "2028": "16/04/2028",
+        "2029": "01/04/2029",
+        "2030": "21/04/2030",
+        "2031": "13/04/2031"
+      }
+    },
+    {
+      "nome": "Dia das Mães",
+      "regra": "Segundo domingo de maio",
+      "datas_por_ano": {
+        "2026": "10/05/2026",
+        "2027": "09/05/2027",
+        "2028": "14/05/2028",
+        "2029": "13/05/2029",
+        "2030": "12/05/2030",
+        "2031": "11/05/2031"
+      }
+    },
+    {
+      "nome": "Dia dos Pais",
+      "regra": "Segundo domingo de agosto",
+      "datas_por_ano": {
+        "2026": "09/08/2026",
+        "2027": "08/08/2027",
+        "2028": "13/08/2028",
+        "2029": "12/08/2029",
+        "2030": "11/08/2030",
+        "2031": "10/08/2031"
+      }
+    },
+    {
+      "nome": "Black Friday",
+      "regra": "Quarta sexta-feira de novembro (dia seguinte à Ação de Graças nos EUA)",
+      "datas_por_ano": {
+        "2026": "27/11/2026",
+        "2027": "26/11/2027",
+        "2028": "24/11/2028",
+        "2029": "23/11/2029",
+        "2030": "29/11/2030",
+        "2031": "28/11/2031"
+      }
+    }
+  ],
+  "feriados_cidades": {
+    "Sao_Paulo": [
+      {
+        "nome": "Aniversário da Cidade de São Paulo",
+        "data": "25/01",
+        "abrangencia": "Municipal"
+      },
+      {
+        "nome": "Revolução Constitucionalista de 1932",
+        "data": "09/07",
+        "abrangencia": "Estadual (SP)"
+      }
+    ],
+    "Rio_de_Janeiro": [
+      {
+        "nome": "Dia de São Sebastião (Padroeiro da Cidade)",
+        "data": "20/01",
+        "abrangencia": "Municipal"
+      },
+      {
+        "nome": "Aniversário da Cidade do Rio de Janeiro",
+        "data": "01/03",
+        "abrangencia": "Data Comemorativa Municipal"
+      },
+      {
+        "nome": "Dia de São Jorge",
+        "data": "23/04",
+        "abrangencia": "Estadual (RJ)"
+      }
+    ],
+    "Florianopolis": [
+      {
+        "nome": "Aniversário de Florianópolis",
+        "data": "23/03",
+        "abrangencia": "Municipal"
+      },
+      {
+        "nome": "Data Magna do Estado de Santa Catarina",
+        "data": "11/08",
+        "abrangencia": "Estadual (SC) - Transferido para o domingo subsequente caso caia em dia útil"
+      },
+      {
+        "nome": "Dia de Santa Catarina de Alexandria",
+        "data": "25/11",
+        "abrangencia": "Estadual (SC) - Transferido para o domingo subsequente caso caia em dia útil"
+      }
+    ]
+  }
+}
